@@ -1,0 +1,9 @@
+*.csv
+*.trees
+*.txt
+*.log
+.vscode/settings.json
+*.gz
+*.xls
+__pycache__/
+*.png
